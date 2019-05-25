@@ -8,7 +8,8 @@ tags: [documentation,sample]
 ---
 **add** stages a file (see *staging*)  
 **branch** *(branching)* creates a new copy  
-**checkout**   
+**checkout**  
+**clean**  remove untracked files  
 **clone**  
 **commit** *(committing)* records changes to the repository  
 **diff**   
@@ -18,10 +19,12 @@ tags: [documentation,sample]
 **log**  
 **merge** *(merging)* is Git's way of putting a forked history back together  
 **origin** usually the remote pointing to users github account   
-**pull** *(pulling)*  
+**pull** combines __fetch__ and __merge__ 
 **push** *(pushing)*  
 **rebase** *(rebasing)*  
 **remote**  
+**remove** unstage deleted file  
+**revert** reverts a commit
 **reset** unstages a file (see *staging*)  
 *(staging)* prepares changes to get commited  
 **stash**   
