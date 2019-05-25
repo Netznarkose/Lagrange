@@ -15,7 +15,7 @@ tags: [documentation,sample]
 **inspect**  
 **ps -a** list all container  
 **ps** list running container  
-**rmi** deletes an image  
+`rmi *image_id*` deletes an image  
 **start** starts a container  
 **stop** stops a container  
 **tag**  
