@@ -28,5 +28,5 @@ tags: [documentation,sample]
 **status** shows *staged*, *unstaged* changes in Repository  
 **show** prints detailed information about last commit.  
 **Tip** refers to the latest commit of a branch  
-![image-title-here](/assets/img/tip_of_branch.png){:class="img-responsive"}
+![image-title-here](/assets/img/tip_of_branch.png)
 **upstream** usually the remote pointing original project on github   
