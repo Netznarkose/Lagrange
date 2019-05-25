@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-**build**  
+`build .`  builds an image  
 **create** creates a container  
 **docker-compose up**  
 **exec -it**  
