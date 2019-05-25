@@ -19,12 +19,12 @@ tags: [documentation,sample]
 **log**  
 **merge** *(merging)* is Git's way of putting a forked history back together  
 **origin** usually the remote pointing to users github account   
-**pull** combines __fetch__ and __merge__ 
+**pull** combines *fetch* and *merge*    
 **push** *(pushing)*  
 **rebase** *(rebasing)*  
 **remote**  
 **remove** unstage deleted file  
-**revert** reverts a commit
+**revert** reverts a commit  
 **reset** unstages a file (see *staging*)  
 *(staging)* prepares changes to get commited  
 **stash**   
