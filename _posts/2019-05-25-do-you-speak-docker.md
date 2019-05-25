@@ -13,6 +13,12 @@ tags: [documentation,sample]
 `exec -it container_name bash`  
 `images / image ls` list images  
 **inspect**  
+**Layer** indicates changes that are made to an image.
+```
+FROM rails:onbuild                   < Base-layer
+ENV RAILS_ENV production             < layer 2
+ENTRYPOINT ["bundle", "exec", "puma”]< layer 3
+```
 `ps -a` list all container  
 `ps` list running container  
 `rmi image_id` deletes an image  
