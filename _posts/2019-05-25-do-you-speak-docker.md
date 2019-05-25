@@ -7,6 +7,7 @@ tags: [documentation,sample]
 ---
 
 `build .`  builds an image  
+`build -t repo:tag .`  builds an image and adds a tag  
 **create** creates a container  
 **docker-compose up**  
 **exec -it**  
