@@ -9,6 +9,7 @@ tags: [documentation,sample]
 **add** stages a file (see *staging*)  
 **branch** *(branching)* creates a new copy  
 **checkout**  
+**cherry-pick**  pick a single commit  
 **clean**  remove untracked files  
 **clone**  
 **commit** *(committing)* records changes to the repository  
